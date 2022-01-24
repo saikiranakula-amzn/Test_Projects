@@ -1,0 +1,6 @@
+D:\Test_Projects_saakla\SupportingProj\bin\Debug\SupportingProj.dll
+D:\Test_Projects_saakla\SupportingProj\bin\Debug\SupportingProj.pdb
+D:\Test_Projects_saakla\SupportingProj\obj\Debug\SupportingProj.csproj.AssemblyReference.cache
+D:\Test_Projects_saakla\SupportingProj\obj\Debug\SupportingProj.csproj.CoreCompileInputs.cache
+D:\Test_Projects_saakla\SupportingProj\obj\Debug\SupportingProj.dll
+D:\Test_Projects_saakla\SupportingProj\obj\Debug\SupportingProj.pdb
